@@ -170,6 +170,7 @@ Footer{
   background-color: var(--black-color);
   padding: var(--space);
   color: var(--white-color);
+  align-items: center;
 }
 .contact a{
   color: var(--green-color);
